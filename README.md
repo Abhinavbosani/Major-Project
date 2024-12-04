@@ -42,7 +42,43 @@ This project aims to improve shopping mall revenue by reducing customer churn an
 - Open a browser and navigate to http://localhost:8080/YourProjectName.
 - Log in to access personalized coupons.
 
-# Snapshots
+## Snapshots
+
+### Index Page
+![Index Page](images/index-page.png)
+
+### User Registration Page
+![User Registration Page](images/user-registration-page.png)
+
+### Login Page
+![Login Page](images/login-page.png)
+
+### Cart Page
+![Cart Page](images/cart-page.png)
+
+### Payment Page
+![Payment Page](images/payment-page.png)
+
+### Order Details
+![Order Details](images/order-details.png)
+
+### Profile Page
+![Profile Page](images/profile-page.png)
+
+### Admin Login Page
+![Admin Login Page](images/admin-login-page.png)
+
+### Admin Home Page
+![Admin Home Page](images/admin-home-page.png)
+
+### View Customers Page
+![View Customers Page](images/view-customers-page.png)
+
+### View Category Clusters Page
+![View Category Clusters Page](images/view-category-clusters-page.png)
+
+### Customers Eligible for Coupons
+![Customers Eligible for Coupons](images/customers-eligible-for-coupons.png)
 
 
 
